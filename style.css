@@ -1,0 +1,9 @@
+table tbody tr th{
+    background-color:rgb(68, 170, 0);
+    outline:solid 1px rgb(68,170,0);
+    color:#FFFFFF;
+}
+
+table tbody tr:nth-of-type(even){
+    background-color:rgb(190, 240, 183);
+}
