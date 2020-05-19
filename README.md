@@ -18,3 +18,6 @@
 - PHP 7.3(サーバー)
 - PostgreSQL(データベース)
 - Javascript(動的な部分)
+
+## 動作しているサイト
+https://mylinuxdatabasesite.herokuapp.com/
