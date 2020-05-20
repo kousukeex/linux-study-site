@@ -174,5 +174,6 @@
             </script>
             <input type="submit" value="登録">
         </form>
+        <a href="./index.php">戻る</a>
     </body>
 </html>
