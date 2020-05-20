@@ -28,6 +28,6 @@
         <!---　終了-->
         <a href="./pageRegister.php">ページ作成</a>
         <a href="./register.php">コマンド登録</a>
-        <a href="files.php">ファイル登録</a><br>
+        <a href="./fileregister.php">ファイル登録</a><br>
     </body>
 </html>
