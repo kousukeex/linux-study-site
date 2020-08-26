@@ -17,6 +17,7 @@
 ## 使用したもの
 - PHP 7.3(サーバー)
 - PostgreSQL(データベース)
+- Oracle DataBase(データベース)
 - Javascript(動的な部分)
 
 ## 動作しているサイト
